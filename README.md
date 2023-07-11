@@ -1,7 +1,7 @@
 
 
-[Go to Zelle Profile](amexapp://zelle/profile)
+# [Go to Zelle Profile](https://www.americanexpress.com/zelle/profile)
 
-[Send Money](amexapp://zelle/moneymovement)
+# [Send Money](https://www.americanexpress.com/zelle/moneymovement)
 
-[Close](amexapp://zelle/close)
+# [Close](https://www.americanexpress.com/zelle/close)
